@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ku.iml" filepath="$PROJECT_DIR$/.idea/modules/Ku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ku.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ku.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_common/.android/Flutter/Ku.flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_common/.android/Flutter/Ku.flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_common/Ku.flutter_common.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_common/Ku.flutter_common.iml" />
+    </modules>
+  </component>
+</project>
